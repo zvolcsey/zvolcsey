@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**zvolcsey/zvolcsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😃 My name is Zoltán Völcsey.
 
-Here are some ideas to get you started:
+Full Stack Developer and Open-Source Contributor with passion to build beatiful and secure web apps with maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "You have power over your mind - not outside events. Realize this, and you will find strength." - Marcus Aurelius
+
+💼 I'm currently working on open-source projects to help other developers and improve my skills.
+
+🔧 My working stack:
+- Programming languages: TypeScript, Node.js, PostgreSQL, MongoDB, CSS, HTML
+- Frameworks: React, Next.js, Express.js
+- State management: React Context, Redux, Redux Toolkit
+- ORM: Prisma
+- Testing: Jest, Vitest, Testing Library
+- Version Control: Git
+- OS: Windows, Linux
+- Remote Collaboration: Slack, Discord
+- Productivity: Notion
+- IDE: Visual Studio Code
+
+My portfolio website: https://zoltanvolcsey.onrender.com/
