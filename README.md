@@ -8,7 +8,7 @@ Full Stack Developer and Open-Source Contributor with passion to build beatiful 
 
 💼 I'm currently working on open-source projects to help other developers and improve my skills.
 
-🔧 My working stack:
+💻 My technical skills:
 - Programming languages: TypeScript, Node.js, PostgreSQL, MongoDB, CSS, HTML
 - Frameworks: React, Next.js, Express.js
 - State management: React Context, Redux, Redux Toolkit
