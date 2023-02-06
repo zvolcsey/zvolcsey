@@ -15,12 +15,12 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <th colspan="2">💻 My technical skills:</td>
   </tr>
   <tr>
-    <td>Programming languages:</td>
-    <td>TypeScript, Node.js, PostgreSQL, CSS, HTML</td>
+    <td>Languages:</td>
+    <td>TypeScript, SQL, NoSQL, CSS, HTML</td>
   </tr>
   <tr>
     <td>Frameworks:</td>
-    <td>React, Next.js, Express.js</td>
+    <td>React, Next.js, Node.js, Express.js</td>
   </tr>
   <tr>
     <td> State management:</td>
@@ -39,8 +39,8 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <td>Jest, Vitest, Testing Library</td>
   </tr>
   <tr>
-    <td>IDE:</td>
-    <td>Visual Studio Code</td>
+    <td>Editor</td>
+    <td>Visual Studio Code, Vim</td>
   </tr>
   <tr>
     <td>Version Control:</td>
