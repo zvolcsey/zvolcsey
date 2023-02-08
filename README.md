@@ -2,7 +2,7 @@
 
 😃 My name is Zoltán Völcsey.
 
-Full Stack Developer and Open-Source Contributor with passion to build beatiful and secure web apps with maintainable code.
+Open-Source Contributor and Full Stack Developer with passion to build beatiful and secure web apps with maintainable code.
 
 > "You have power over your mind - not outside events. Realize this, and you will find strength." - Marcus Aurelius
 
@@ -39,7 +39,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <td>Jest, Vitest, Testing Library</td>
   </tr>
   <tr>
-    <td>Editor</td>
+    <td>Editor:</td>
     <td>Visual Studio Code, Vim</td>
   </tr>
   <tr>
