@@ -58,4 +58,8 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <td>Productivity:</td>
     <td>Notion</td>
   </tr>
+  <tr>
+    <td>Package Manager:</td>
+    <td>NPM, Yarn</td>
+  </tr>
 </table>
