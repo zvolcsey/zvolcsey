@@ -16,11 +16,11 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Languages:</td>
-    <td>TypeScript, SQL, NoSQL, CSS, HTML</td>
+    <td>TypeScript, SQL, NoSQL, CSS3, HTML5</td>
   </tr>
   <tr>
     <td>Frameworks:</td>
-    <td>React, Next.js, Node.js, Express.js</td>
+    <td>React, Next.js, Node.js, Express.js, Tailwind CSS</td>
   </tr>
   <tr>
     <td> State management:</td>
