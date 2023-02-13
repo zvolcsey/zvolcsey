@@ -23,6 +23,10 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <td>React, Next.js, Node.js, Express.js, Tailwind CSS</td>
   </tr>
   <tr>
+    <td>Component library:</td>
+    <td>Chakra UI</td>
+  </tr>
+  <tr>
     <td> State management:</td>
     <td>React Context, Redux, Redux Toolkit</td>
   </tr>
