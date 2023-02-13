@@ -44,7 +44,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Editor:</td>
-    <td>Visual Studio Code, Vim</td>
+    <td>Visual Studio Code, Vim, Neovim</td>
   </tr>
   <tr>
     <td>Version Control:</td>
