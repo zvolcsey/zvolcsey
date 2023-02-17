@@ -2,7 +2,7 @@
 
 😃 My name is Zoltán Völcsey.
 
-Open-Source Contributor and Full Stack Developer with passion to build beatiful and secure web apps with maintainable code.
+Open-Source Contributor and Junior Full Stack Developer with passion to build beatiful and secure web apps with maintainable code.
 
 > "You have power over your mind - not outside events. Realize this, and you will find strength." - Marcus Aurelius
 
