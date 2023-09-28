@@ -16,7 +16,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Languages:</td>
-    <td>TypeScript, SQL, NoSQL, CSS3, HTML5</td>
+    <td>TypeScript, SQL, CSS3, HTML5</td>
   </tr>
   <tr>
     <td>Frameworks:</td>
@@ -32,7 +32,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Database:</td>
-    <td>PostgreSQL, MongoDB</td>
+    <td>PostgreSQL</td>
   </tr>
   <tr>
     <td>ORM:</td>
@@ -44,7 +44,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Editor:</td>
-    <td>Visual Studio Code, Vim, Neovim</td>
+    <td>Visual Studio Code, Vim</td>
   </tr>
   <tr>
     <td>Version Control:</td>
