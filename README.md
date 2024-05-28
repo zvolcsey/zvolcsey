@@ -20,11 +20,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Frameworks:</td>
-    <td>React, Next.js, Node.js, Express.js, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td>Component library:</td>
-    <td>Chakra UI</td>
+    <td>React, Node.js, Express.js, Next.js, Remix, Tailwind CSS</td>
   </tr>
   <tr>
     <td> State management:</td>
@@ -55,15 +51,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
     <td>Windows, Linux</td>
   </tr>
   <tr>
-    <td>Remote Collaboration:</td>
-    <td>Slack, Discord</td>
-  </tr>
-  <tr>
-    <td>Productivity:</td>
-    <td>Notion</td>
-  </tr>
-  <tr>
     <td>Package Manager:</td>
-    <td>NPM, Yarn</td>
+    <td>NPM</td>
   </tr>
 </table>
