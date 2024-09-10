@@ -16,7 +16,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Languages:</td>
-    <td>TypeScript, SQL, CSS3, HTML5</td>
+    <td>TypeScript, JavaScript, SQL, CSS3, HTML5</td>
   </tr>
   <tr>
     <td>Frameworks:</td>
