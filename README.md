@@ -16,11 +16,11 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Languages:</td>
-    <td>TypeScript, JavaScript, SQL, CSS3, HTML5</td>
+    <td>TypeScript, JavaScript, Python, SQL, CSS3, HTML5</td>
   </tr>
   <tr>
     <td>Frameworks:</td>
-    <td>React, Node.js, Express.js, Next.js, Remix, Tailwind CSS</td>
+    <td>React, Node.js, Express.js, Next.js, Remix, Flask, Django, Tailwind CSS</td>
   </tr>
   <tr>
     <td> State management:</td>
@@ -40,7 +40,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Editor:</td>
-    <td>Visual Studio Code, Vim</td>
+    <td>Visual Studio Code, NeoVim</td>
   </tr>
   <tr>
     <td>Version Control:</td>
