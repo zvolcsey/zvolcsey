@@ -20,7 +20,7 @@ My portfolio website: https://zoltanvolcsey.onrender.com/
   </tr>
   <tr>
     <td>Frameworks:</td>
-    <td>React, Node.js, Express.js, Next.js, Remix, Flask, Django, Tailwind CSS</td>
+    <td>React, Node.js, Express.js, Next.js, Flask, Django, Tailwind CSS</td>
   </tr>
   <tr>
     <td> State management:</td>
